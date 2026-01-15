@@ -3,8 +3,8 @@ package net.liopyu.doublejump;
 import com.hypixel.hytale.server.core.event.events.ecs.BreakBlockEvent;
 import com.hypixel.hytale.server.core.plugin.JavaPlugin;
 import com.hypixel.hytale.server.core.plugin.JavaPluginInit;
+import com.hypixel.hytale.server.worldgen.util.LogUtil;
 import net.liopyu.doublejump.system.TestSystem;
-import net.liopyu.doublejump.util.LogUtil;
 
 import javax.annotation.Nonnull;
 
