@@ -1,6 +1,6 @@
 {
     "Group": "net.liopyu",
-    "Name": "DoubleJump",
+    "Name": "HyTools",
     "Version": "0.0.1",
     "Description": "Adds double jumping to Hytale at the expense of stamina",
     "Authors": [
@@ -17,6 +17,6 @@
         
     },
     "DisabledByDefault": false,
-    "Main": "net.liopyu.doublejump.DoubleJump",
+    "Main": "net.liopyu.hytools.HyTools",
     "IncludesAssetPack": true
 }
